@@ -9,7 +9,9 @@
 **
 ## SVD (Singular Value Decomposition):
 
-1. SVD is a matrix factorization technique used in linear algebra and data analysis. Given a matrix, SVD decomposes it into three matrices: * U
+1. SVD is a matrix factorization technique used in linear algebra and data analysis. Given a matrix, SVD decomposes it into three matrices:
+   
+* U
 * Σ (Sigma), and
 * V^T (the transpose of V), where U and V contain orthogonal vectors, and Σ contains singular values.
 3. SVD is widely used in various applications, such as dimensionality reduction, noise reduction, and collaborative filtering in recommendation systems. In the context of collaborative filtering, SVD can be applied to factorize a user-item interaction matrix, allowing the discovery of latent features and making personalized recommendations.
